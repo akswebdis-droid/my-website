@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arthur Art, director, дизайнер"
+  short_description: "Art direction, careful UX and precise UI design"
+  default_prompt: "Use $arthur to design or redesign the requested interface within the approved task, explaining important UX and visual trade-offs."
